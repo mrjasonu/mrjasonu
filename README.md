@@ -7,4 +7,3 @@
 
 [GitHub]: https://github.com/jumahi
 [Twitter]: https://twitter.com/jumahi_
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumahi &theme=radical)
