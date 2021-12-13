@@ -1,4 +1,4 @@
-# Jason
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Jason
 
 - 👋 Hi, I am [@jumahi][GitHub].
 - 👀 I am interested in learning to code.
@@ -10,5 +10,6 @@
 
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumahi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumahi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
