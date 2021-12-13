@@ -7,3 +7,8 @@
 
 [GitHub]: https://github.com/jumahi
 [Twitter]: https://twitter.com/jumahi_
+
+
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumahi)](https://github.com/anuraghazra/github-readme-stats)
+
