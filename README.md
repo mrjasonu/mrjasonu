@@ -1,9 +1,19 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Jason
+<h1 align="center">🧑🏾‍💻 Hi, I'm Jason</h1>
+<h2 align="center">Fullstack development enthusiast</h2>
 
-- 👋 Hi, I am [@jumahi][GitHub].
-- 👀 I am interested in learning to code.
-- 🌱 I am currently learning Full-Stack Engineering.
-- 📫 You can reach me via [GitHub] and [Twitter].
 
-[GitHub]: https://github.com/jumahi
-[Twitter]: https://twitter.com/jumahi_
+- 🍃 I love learning and creating new things
+- 📖 I’m currently mastering JavaScript
+- 🌸 I enjoy some CSS and HTML as well! 
+- 🐙 Zero developer work experience
+
+
+
+<h3>Languages & Tools I Use:</h3>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+</p>
