@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jason</h1>
 <h2 align="center">Fullstack development enthusiast 💻</h2>
-I've been learning to code for many years. <br> I have found a passion for Full-Stack Development 🌐<br>🌍  I'm based on Earth <br>🧠  I'm learning Full-Stack development with Codecademy 
+I've been learning to code for many years. <br> I have found a passion for Full-Stack Development 🌐<br>🌍  I'm based on Earth 👽<br>🧠  I'm learning Full-Stack development with Codecademy 
 
 ### Skills
 
